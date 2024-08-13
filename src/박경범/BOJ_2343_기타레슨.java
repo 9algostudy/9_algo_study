@@ -1,3 +1,5 @@
+package 박경범;
+
 import java.util.Scanner;
 
 public class BOJ_2343_기타레슨 {

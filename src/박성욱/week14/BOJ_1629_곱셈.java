@@ -19,7 +19,7 @@ public class BOJ_1629_곱셈 {
     }
 
 	private static long dfs(int a, int b,int c) {
-		if(b == 0) {
+		if(b ==	 0) {
 			return 1;
 		}
 		long mid = dfs(a,b/2,c);

@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class BOJ_1629_곱셈 {
-//
+
 	static long A, B, C;
 
 	public static void main(String[] args) throws Exception {
